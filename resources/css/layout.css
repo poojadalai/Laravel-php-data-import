@@ -1,0 +1,16 @@
+html,
+body {
+    width: 100vw;
+    height: 100%;
+    overflow: hidden;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.hdi{
+    color:green;
+}
